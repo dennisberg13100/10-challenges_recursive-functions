@@ -6,7 +6,7 @@ Recursive functions are important in programming because they provide a powerful
 
 - [x] **Factorial:** Write a function that takes an integer as input and returns its factorial using recursion.
 
-- [ ] **Binary search:** Write a function that takes an array of integers and a target value as input, and uses recursion to perform a binary search on the array for the target value. The function should return the index of the target value if it is found, or -1 if it is not found.
+- [x] **Binary search:** Write a function that takes an array of integers and a target value as input, and uses recursion to perform a binary search on the array for the target value. The function should return the index of the target value if it is found, or -1 if it is not found.
 
 - [ ] **Tower of Hanoi:** Write a function that takes an integer n as input, and recursively solves the Tower of Hanoi problem for n discs. The function should print out the steps required to move all the discs from the first tower to the third tower.
 
