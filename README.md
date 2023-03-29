@@ -4,7 +4,7 @@ Recursive functions are important in programming because they provide a powerful
 
 - [x] **Fibonacci sequence:** Write a function that takes an integer as input and returns the nth number in the Fibonacci sequence using recursion.
 
-- [ ] **Factorial:** Write a function that takes an integer as input and returns its factorial using recursion.
+- [x] **Factorial:** Write a function that takes an integer as input and returns its factorial using recursion.
 
 - [ ] **Binary search:** Write a function that takes an array of integers and a target value as input, and uses recursion to perform a binary search on the array for the target value. The function should return the index of the target value if it is found, or -1 if it is not found.
 
